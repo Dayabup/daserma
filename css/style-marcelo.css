@@ -1,0 +1,121 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+/*nuestra historia*/
+.parrafo1{
+  border: solid 2px black;
+  padding: 10px;
+  width: 200px;
+  height: 200px;
+  text-align: content;
+  border-radius: 10px;
+ }
+.nosotros{
+
+   text-align: center;
+   
+ }
+
+ .parrafo2{
+  border: solid 2px black;
+  padding: 10px;
+  width: 600px;
+  height: 200px;
+  text-align: content;
+  border-radius: 10px;
+  
+ }
+
+ .parrafoNosotros1{
+  border: solid 2px black;
+  padding: 10px;
+  width: 500px;
+  height: 60px;
+  text-align: content;
+  border-radius: 10px;
+  font-size:xx-small;
+  position:relative;
+  top:100px;
+  left:350px;
+ }
+
+ 
+ /*Buscar tiendas*/
+
+.result-item {
+  margin: 5px 0;
+  border: 1px solid rgb(204, 203, 203);
+  padding: 10px;
+  width: 500px;
+  height: 200px;
+  border-radius: 10px;
+  position: relative;
+  top:-5px;
+  left:560px;
+  
+  
+}
+.result-item img {
+  max-width: 200px;
+  margin-right: 10px;
+}
+
+ .buscarTienda{
+  position: relative;
+  top:100px;
+  left:165px;
+ }
+.container{
+  width: 1330px;
+  height: 800px;
+  left:-100px;
+  
+  position: relative;
+  border: 1px solid #ccc;
+  
+  text-align: center;
+}
+ /*Nuestras tiendas*/
+.parrafoNuestrasTiendas{
+    border: solid 2px black;
+    padding: 10px;
+    width: 500px;
+    height: 90px;
+    text-align: content;
+    border-radius: 10px;
+    font-size:small;
+    position:relative;
+    top:100px;
+    left:725px;
+}
+ .parrafoTiendas{
+  font-size:x-small;
+  top: 5px;
+  position: relative;
+  left: 0px;
+ }
+
+
+ /*Mision y vision*/
+ .parrafoMision{
+  border: solid 2px black;
+  padding: 10px;
+  width: 600px;
+  height: 200px;
+  text-align: content;
+  border-radius: 10px;
+ }
+
+ .parrafoVision{
+  border: solid 2px black;
+  padding: 10px;
+  width: 600px;
+  height: 250px;
+  text-align: content;
+  border-radius: 10px;
+ }
